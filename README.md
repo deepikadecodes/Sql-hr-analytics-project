@@ -1,4 +1,4 @@
-HR Analytics SQL Project
+## HR Analytics SQL Project ##
 
 Project Overview:-
 - This project focuses on analyzing HR data using SQL to extract meaningful business insights related to employee performance, salary distribution, departmental trends, and workforce analytics.
